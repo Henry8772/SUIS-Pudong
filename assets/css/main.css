@@ -1840,7 +1840,7 @@
 
 			header.major > :first-child:after {
 				content: '';
-				background-color: #242943;
+				background-color: white;
 				display: block;
 				height: 2px;
 				margin: 0.325em 0 0.5em 0;

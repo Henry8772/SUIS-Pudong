@@ -33,7 +33,7 @@ nav-menu:
 <section id="house" style="background-color: white">
 	<div class="inner">
 		<header class="major">
-			<h2 style="color: #242943;">House activities</h2>
+			<h2 style="color: #242943;border-bottom: 3px solid #242943;margin-bottom: 0px;">House activities</h2>
 		</header>
 		<p style="color: #242943;">Green cards of the month</p>
 		<div style="width: 90%;height: auto;">
