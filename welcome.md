@@ -1,6 +1,6 @@
 ---
-layout: landing
-title: Landing
+layout: welcome
+title: Welcome to SUIS
 description: Lorem ipsum dolor sit amet nullam consequat<br />sed veroeros. tempus adipiscing nulla.
 image: assets/images/pic07.jpg
 nav-menu: yes
